@@ -1,0 +1,5 @@
+{
+    "editor.minimap.autohide": false,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
